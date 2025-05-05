@@ -28,6 +28,8 @@ I'm passionate about **Data Analysis 📊** and currently expanding my skills to
 🚀 **Projects:**
 
 - [Excel Electronic Store Analysis](https://github.com/frhndrh-22/Excel-Electronic.Store)
+- [Python Online Retail Analysis](https://github.com/frhndrh-22/Python-Online.Retail)
+
 
 ---
 
