@@ -1,16 +1,40 @@
-## Hi there 👋
+### Hi there, I'm Dyra! 👋
 
-<!--
-**frhndrh-22/frhndrh-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about **Data Analysis 📊** and currently expanding my skills to become a skilled Data Analyst.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **About Me:**
+
+- 📍 From Perak.
+- 📚 Currently self-learning:
+  - MySQL
+  - Advanced Excel
+  - Python
+  - Data Visualization
+- 🎯 Goal: To pursue a career in Data Analysis.
+
+---
+
+🛠️ **Skills & Tools:**
+
+![Excel](https://img.shields.io/badge/Excel-%23239120.svg?&style=for-the-badge&logo=MicrosoftExcel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
+
+---
+
+🚀 **Projects:**
+
+- [Excel Electronic Store Analysis](https://github.com/frhndrh-22/Excel-Electronic.Store)
+
+---
+
+📫 **Let's Connect:**
+
+- **Email:** [frhndrh.fn@gmail.com](mailto:frhndrh.fn@gmail.com)
+- **WhatsApp** [013-4747146](https://wa.me/0134747146)
+
+---
+
+*Feel free to explore my repositories and drop a message for collaboration or any interesting discussion! 😊*
