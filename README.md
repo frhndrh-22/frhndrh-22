@@ -20,6 +20,7 @@ I'm passionate about **Data Analysis 📊** and currently expanding my skills to
 
 ![Excel](https://img.shields.io/badge/Excel-%23239120.svg?&style=for-the-badge&logo=MicrosoftExcel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
 
 ---
